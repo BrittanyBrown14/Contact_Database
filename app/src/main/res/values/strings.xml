@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DatabaseContact</string>
+    <string name="first_name">Please enter your First Name</string>
+    <string name="last_name">Please enter your Last Name</string>
+    <string name="email">Please enter your Email Address</string>
+    <string name="DoB">Please enter your Date of Birth</string>
+    <string name="is_active">Active User</string>
+    <string name="view_details">View Details</string>
+    <string name="save_details">Save Details</string>
+    <string name="back">Back</string>
+    <string name="refresh">Refresh</string>
+</resources>
